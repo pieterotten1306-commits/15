@@ -7,8 +7,8 @@ project:
     - name: Roel Smit
 
   date: 2025-11-05
-  github: https://github.com/Contemporary-Physicslab/thermolab # Change this URL to your GitHub repository
-
+  github: https://github.com/pieterotten1306-commits/15.git
+#hallo
 extends:
   - plugins.yml
   - toc.yml
@@ -24,4 +24,4 @@ site:
   
   actions:
     - title: report issue
-      url: https://github.com/Contemporary-Physicslab/thermolab/issues # change this URL to your repository
+      url: https://github.com/pieterotten1306-commits/15.git
