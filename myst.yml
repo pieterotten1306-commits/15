@@ -8,7 +8,7 @@ project:
     
   date: 2025-11-05
   github: https://github.com/pieterotten1306-commits/15.git
-#hallo korne
+
 extends:
   - plugins.yml
   - toc.yml
