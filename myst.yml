@@ -3,12 +3,12 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
-
+    - name: Pieter Otten
+    - name: Korne Hoendervangers
+    
   date: 2025-11-05
   github: https://github.com/pieterotten1306-commits/15.git
-#hallo
+#hallo korne
 extends:
   - plugins.yml
   - toc.yml
