@@ -4,12 +4,12 @@ project:
     - file: index.md
     - file: intro.md
 
-    - title: GitHub
-      file: Content/GitHub/uitleg.md
+    - title: GitHub 
+    - file: Content/GitHub/uitleg.md
       children:
-        - file: Content/GitHub/1_intro.md
-        - file: Content/GitHub/2_dependencies.md
-        - file: Content/GitHub/3_features.md
+        - file: Content/Github/1_intro.md
+        - file: Content/Github/2_dependencies.md
+        - file: Content/Github/3_features.md
         - title: GitHub documentation
           children:
             - title: Motivation for Using GitHub
@@ -31,6 +31,7 @@ project:
             - title: VSC
               url: https://teachbooks.io/learn-programming/workflows/git/vscode
 
+
     - title: Simulaties
       file: Content/PySim/uitleg.md
       children:
@@ -48,14 +49,17 @@ project:
     - title: Labs
       file: Content/Labs/uitleg.md
       children:
-        - title: Soortelijke warmte
-          children:
-            - file: Content/Labs/cwater.ipynb
-            - file: Content/Labs/Verdamping.ipynb
-            - file: Content/Labs/Warmtecapaciteit.ipynb
-            - file: Content/Labs/tempmetingen.csv
+        
+       - title: Soortelijke warmte
+         children:
+           - file: Content/Labs/cwater.ipynb
+           - file: Content/Labs/Verdamping.ipynb        
+           - file: Content/Labs/Warmtecapaciteit.ipynb
+           - file: Content/Labs/druksensorijken.ipynb
+           - file: Content/Labs/koelbuis.ipynb
+           - file: Content/Labs/waxine (1).ipynb
 
-        - title: Druk
-          children:
-            - file: Content/Labs/druksensorijken.ipynb
-            - file: Content/Labs/pV_diagram.ipynb
+       - title: Druk
+         children:
+           - file: Content/Labs/druksensorijken.ipynb
+           - file: Content/Labs/pV_diagram.ipynb
