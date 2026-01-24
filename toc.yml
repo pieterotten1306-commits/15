@@ -45,6 +45,7 @@ project:
         - file: Content/PySim/7_arbeid_excellent.ipynb
         - file: Content/PySim/8_thermostaat.ipynb
         - file: Content/PySim/9_entropie.ipynb
+        - file: Content/PySim/10_voltaische_cel.ipynb
 
     - title: Labs
       file: Content/Labs/uitleg.md
