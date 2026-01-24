@@ -55,7 +55,8 @@ project:
            - file: Content/Labs/cwater.ipynb
            - file: Content/Labs/Verdamping.ipynb        
            - file: Content/Labs/Warmtecapaciteit.ipynb
-           - file: Content/Labs/tempmetingen.csv
+           - file: Content/Labs/koelbuis.ipynb
+           - file: Content/Labs/waxine (1).ipynb
 
        - title: Druk
          children:
